@@ -2,7 +2,7 @@
     "43": {
         "id": 43,
         "order": "1.00000000000000000000",
-        "name": "Kuru Gidalar",
+        "name": "Kuru Gıdalar",
         "grocerist_id": "category__43",
         "goods": [
             {
@@ -3859,7 +3859,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Kuru Gidalar",
+                "value": "Kuru Gıdalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4211,7 +4211,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Kuru Gidalar",
+                "value": "Kuru Gıdalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4608,7 +4608,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Kuru Gidalar",
+                "value": "Kuru Gıdalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4880,7 +4880,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Kuru Gidalar",
+                "value": "Kuru Gıdalar",
                 "order": "1.00000000000000000000"
             }
         ],
