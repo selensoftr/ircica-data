@@ -2,7 +2,7 @@
     "43": {
         "id": 43,
         "order": "1.00000000000000000000",
-        "name": "Dry goods",
+        "name": "Kuru Gidalar",
         "grocerist_id": "category__43",
         "goods": [
             {
@@ -3859,7 +3859,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods",
+                "value": "Kuru Gidalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4211,7 +4211,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods",
+                "value": "Kuru Gidalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4608,7 +4608,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods",
+                "value": "Kuru Gidalar",
                 "order": "1.00000000000000000000"
             }
         ],
@@ -4880,7 +4880,7 @@
         "part_of": [
             {
                 "id": 43,
-                "value": "Dry goods",
+                "value": "Kuru Gidalar",
                 "order": "1.00000000000000000000"
             }
         ],
